@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "ce9868828b2c91ffe8b4fea8c813dd7c94cb5676",
+  "sourceCommit": "63d6d1e56c807d8b9acc9b1e0103675c1d104757",
   "hubs": [
     {
       "id": "blockchain-cryptography",
@@ -785,7 +785,7 @@
       "sourceSHA256": "811c0216dd000e1d74708e0b69716a429f26a58f7d00d07ea302021219c4f701",
       "title": "What Does Determinism Mean in Blockchain?",
       "subtitle": "Determinism in blockchain technology refers to the principle that every participant in a decentralized network, when given the same inputs and conditions, will arrive at an identical, verifiable output.",
-      "date": null,
+      "date": "2024-12-22T15:00:00.000Z",
       "coverImage": "/education_hub_articles/What_Does_Determinism_Mean_in_Blockchain/images/image1.png",
       "authors": [
         "explainCKBot"
@@ -811,7 +811,7 @@
       "readingMinutes": 8,
       "bodySHA256": "62de0807f7e52f0c021f480bf17888eac266fd5ff4c0fe6de152ffae6484d4ce",
       "warnings": [
-        "missing-or-invalid-date"
+        "date-normalized-existing-site-rule"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "ce9868828b2c91ffe8b4fea8c813dd7c94cb5676",
+  "sourceCommit": "63d6d1e56c807d8b9acc9b1e0103675c1d104757",
   "articles": 211,
   "renditions": 318,
   "languages": {
@@ -460,7 +460,7 @@
     {
       "sourceFile": "What_Does_Determinism_Mean_in_Blockchain/index.md",
       "warnings": [
-        "missing-or-invalid-date"
+        "date-normalized-existing-site-rule"
       ]
     },
     {
