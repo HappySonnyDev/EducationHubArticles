@@ -99,7 +99,7 @@ Web5 建立在真正去中心化、点对点拓扑结构的网络之上，这是
 
 ![alt_text](images/image2.png "image_tooltip")
 
-*排名前两位的 Layer 2 项目 Arbitrum 和 Base 的总 TVL（321.2 亿美元）超过了其余 18 家 Layer 2 项目 TVL 的总和（114.3 亿美元）。 (来源: [L2Beat.com](L2Beat.com))*
+*排名前两位的 Layer 2 项目 Arbitrum 和 Base 的总 TVL（321.2 亿美元）超过了其余 18 家 Layer 2 项目 TVL 的总和（114.3 亿美元）。 (来源: [L2Beat.com](https://l2beat.com))*
 
 流动性吸引交易者，交易量催生流动性，二者结合吸引 dApp 开发者。流动性碎片化使 Layer 2 深陷网络效应困境：率先突破临界点的链持续增长，其余链则逐渐凋零，最终导致流动性与用户活动集中于少数赢家。  
 
@@ -265,7 +265,7 @@ PoW 网络因此更为健壮，没有节点处于有利地位，也没有节点�
 
 ![alt_text](images/image6.png "image_tooltip")
 
-通道网络的进展更令人振奋。2024 年大部分时间，[Fiber Network](https://www.ckbfiber.net/) 项目致力于在 CKB 上实现兼容闪电网络的通道，目前正快速迈向主网。尽管闪电网络以高难度著称，CKB 为其提供了新的计算基础，可在无需共识变更的前提下测试闪电网络的各种改进方案。  
+通道网络的进展更令人振奋。2024 年大部分时间，[Fiber Network](https://www.fiber.world) 项目致力于在 CKB 上实现兼容闪电网络的通道，目前正快速迈向主网。尽管闪电网络以高难度著称，CKB 为其提供了新的计算基础，可在无需共识变更的前提下测试闪电网络的各种改进方案。  
 
 [Polycrypt](https://github.com/perun-network) 团队在状态通道网络上工作了将近七年，最近发布了跨账户和 UTXO 模型的融合功能，支持八条链，包括以太坊、波卡、Dfinity、Cardano、Cosmos、Stellar、Fabric 和 CKB。
 

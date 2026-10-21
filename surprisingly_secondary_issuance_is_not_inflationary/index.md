@@ -80,7 +80,7 @@ No matter what value is assigned to λ, as long as CKBytes are continuously lost
 
 ![alt_text](images/image8.png 'image_tooltip')
 
-As blockchain technology continues to develop and standards improve further every day, it is possible that the rate of private key loss will significantly decrease over time. Among those developments we can highlight multi-signature schemes, social recovery, dead man's switch, and many other developments made possible by [account abstraction](https://www.nervos.org/knowledge-base/account_abstraction_where_were_going). Also, the development of good practices and the education of users in the management of their private keys decreases the loss of these keys. 
+As blockchain technology continues to develop and standards improve further every day, it is possible that the rate of private key loss will significantly decrease over time. Among those developments we can highlight multi-signature schemes, social recovery, dead man's switch, and many other developments made possible by [account abstraction](https://www.nervos.org/knowledge-base/account_abstraction_where_we_are_going). Also, the development of good practices and the education of users in the management of their private keys decreases the loss of these keys. 
 
 However, it seems unlikely that these advancements will completely stop coin losses in the near future, and as a result, their effects will continue to manifest in one way or another in the emission curves of coins like CKB.
 
@@ -88,7 +88,6 @@ However, it seems unlikely that these advancements will completely stop coin los
 ### Related Links
 
 * [Surprisingly, Tail Emission Is Not Inflationary](https://petertodd.org/2022/surprisingly-tail-emission-is-not-inflationary)
-* [Bitcoin, Ethereum, Nervos: Inflationary or Deflationary?](https://www.cryptowendyo.com/bitcoin-ethereum-nervos-inflationary-deflationary/)
 * [Understanding the Nervos CKB Issuance Model](https://www.nervos.org/knowledge-base/understanding_nervos_ckb_issuance_model)
 * [Reasoning from the Monero community about the tail emission](https://www.reddit.com/r/Monero/comments/4z0azk/comment/d6sixyi/)
 * [Bitcoin - Controlled Supply](https://en.bitcoin.it/wiki/Controlled_supply)

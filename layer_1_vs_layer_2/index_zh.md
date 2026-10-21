@@ -31,7 +31,7 @@ Layer 2 是一个专业术语，用于描述建立在现有区块链协议之上
 
 ### Optimistic Rollup
 
-[Optimistic Rollup](https://www.nervos.org/knowledge-base/what_are_optimistic_rollups) 是一种区块链 Layer 2 解决方案，用于提高可扩展性。其原理是将多个交易捆绑成一个交易，在主区块链之外进行处理。这些交易被”乐观地”处理，即在所有捆绑交易都有效的假设下进行。这样可以加快处理时间并减轻主区块链的计算负载。
+[Optimistic Rollup](https://www.nervos.org/knowledge-base/what_are_optimistic_rollups_everything_you_need_to_know) 是一种区块链 Layer 2 解决方案，用于提高可扩展性。其原理是将多个交易捆绑成一个交易，在主区块链之外进行处理。这些交易被”乐观地”处理，即在所有捆绑交易都有效的假设下进行。这样可以加快处理时间并减轻主区块链的计算负载。
 
 要使用 Optimistic Rollup，用户需要通过跨链桥合约将其原始资产锁定在 Layer 1 上。然后，在 Layer 2 上的智能合约里创建相应的 wrapped token，以 1:1 的比例映射到之前在 Layer 1 上锁定的资产。用户在 Layer 2 上使用这些 wrapped token 进行交易时，交易会捆绑在一起进行批量处理，只有交易数据会回传到 Layer 1。
 
@@ -67,7 +67,7 @@ Layer 3 网络，也称为应用链，它运行在 Layer 2 解决方案之上，
 
 ![alt_text](images/image3.png 'image_tooltip')
 
-来源：[https://vitalik.ca/general/2022/09/17/layer_3.html](https://vitalik.ca/general/2022/09/17/layer_3.html)
+来源：[https://vitalik.eth.limo/general/2022/09/17/layer_3.html](https://vitalik.eth.limo/general/2022/09/17/layer_3.html)
 
 Layer 3 网络可用于各类应用，例如 DeFi、NFT、供应链管理和游戏。Layer 3 网络搭建在 Layer 2 解决方案之上，因此可以充分利用 Layer 2 解决方案带来的可扩展性、互操作性和成本优势，同时还为特定用例提供更专业、定制化的功能。
 
