@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "63d6d1e56c807d8b9acc9b1e0103675c1d104757",
-  "articles": 211,
-  "renditions": 318,
+  "sourceCommit": "4b96df2b13bd444ed2af2b3168050856159e74ef",
+  "articles": 213,
+  "renditions": 320,
   "languages": {
-    "en": 211,
+    "en": 213,
     "es": 43,
     "zh": 64
   },
@@ -446,6 +446,12 @@
   ],
   "issues": [
     {
+      "sourceFile": "5_lightning_network_alternatives_for_instant_crypto_payments/index.md",
+      "warnings": [
+        "no-exact-candidate"
+      ]
+    },
+    {
       "sourceFile": "Cross_Chain_Solutions_A_Complete_Guide/index.md",
       "warnings": [
         "no-exact-candidate"
@@ -633,6 +639,12 @@
     },
     {
       "sourceFile": "how_off_chain_payments_work/index.md",
+      "warnings": [
+        "no-exact-candidate"
+      ]
+    },
+    {
+      "sourceFile": "how_payment_channel_networks_support_multiple_assets/index.md",
       "warnings": [
         "no-exact-candidate"
       ]

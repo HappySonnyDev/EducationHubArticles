@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "63d6d1e56c807d8b9acc9b1e0103675c1d104757",
+  "sourceCommit": "4b96df2b13bd444ed2af2b3168050856159e74ef",
   "hubs": [
     {
       "id": "blockchain-cryptography",
@@ -327,6 +327,36 @@
   ],
   "articles": [
     {
+      "id": "5_lightning_network_alternatives_for_instant_crypto_payments",
+      "language": "en",
+      "canonicalPath": "/knowledge-base/5_lightning_network_alternatives_for_instant_crypto_payments",
+      "sourceFile": "5_lightning_network_alternatives_for_instant_crypto_payments/index.md",
+      "sourceSHA256": "fe2c0afa19f7ef6cee1172a058b97491a916be509138b3ca309212c0054f3fb7",
+      "title": "5 Lightning Network Alternatives for Instant Crypto Payments",
+      "subtitle": "Beyond a Bitcoin-only payment layer: A guide to instant crypto payment rails built for stablecoins, smart contracts, and autonomous AI agents.",
+      "date": "2026-09-28T16:00:00.000Z",
+      "coverImage": "/education_hub_articles/5_lightning_network_alternatives_for_instant_crypto_payments/images/image1.png",
+      "authors": [
+        "nervosnetwork"
+      ],
+      "hub": null,
+      "subjects": [],
+      "internalTags": [],
+      "legacyTags": "Lightning",
+      "librarySection": "general",
+      "reviewStatus": "pending-editorial",
+      "matchMethod": "unmatched",
+      "candidateKeys": [],
+      "relatedArticleIds": [],
+      "excludedFromRecommendations": false,
+      "draft": false,
+      "readingMinutes": 9,
+      "bodySHA256": "20473a734c0b9200231d8a9ab844d66b7175d5d379074aec10d14651e2a89a44",
+      "warnings": [
+        "no-exact-candidate"
+      ]
+    },
+    {
       "id": "BFT_consensus_mechanisms",
       "language": "en",
       "canonicalPath": "/knowledge-base/BFT_consensus_mechanisms",
@@ -436,7 +466,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/BLS_Signatures_use_cryptocurrency",
       "sourceFile": "BLS_Signatures_use_cryptocurrency/index.md",
-      "sourceSHA256": "1fecd1dbf56d381ae985e94219148d2e9abd4f59ccaa8a5fb173f1f1202f0dc8",
+      "sourceSHA256": "bd495c3faa1b671f502c411f1d40329c84548ffb8f72487c67028761304e3131",
       "title": "What are BLS Signatures and Their Use in Cryptocurrency?",
       "subtitle": "Cryptocurrencies and blockchain technologies have grown into fields of immense innovation, forging a path toward a decentralized financial realm.",
       "date": "2024-01-08T16:00:00.000Z",
@@ -463,7 +493,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 5,
-      "bodySHA256": "5db5cce189713846b02958366260e41e3f80b84906fee747e764dcd1708cd10b",
+      "bodySHA256": "6353aaa84ce8573c23d951fe1a647ba948dfb16c7961b7fa86dddccad35eff9d",
       "warnings": []
     },
     {
@@ -1860,7 +1890,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/bitcoin_and_ckb_security_models",
       "sourceFile": "bitcoin_and_ckb_security_models/index_zh.md",
-      "sourceSHA256": "dd9da987eef092e3c3c4c79658a3685f339bf256e25dc6ecb7f797e02422294a",
+      "sourceSHA256": "0a59fd31d6656d78808b2b25e13595dafc0470729160582ddb76409a8b9af14c",
       "title": "比特币 vs. CKB：实现可持续安全的不同路径",
       "subtitle": "比特币的安全模型自诞生以来，一直是后续加密货币设计的重要灵感来源。其长期成败对加密货币行业的影响不言而喻。",
       "date": "2023-12-05T16:00:00.000Z",
@@ -1885,7 +1915,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 22,
-      "bodySHA256": "2dd984c1a144d41bba0a0148ac77830242bd130831525551904525024f440f31",
+      "bodySHA256": "7de5248f16665bd3eb1763b35830744af64828ee210cd600ed307cf984a4a5a3",
       "warnings": [
         "missing-author"
       ]
@@ -1965,7 +1995,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/bitcoin_script",
       "sourceFile": "bitcoin_script/index_zh.md",
-      "sourceSHA256": "445f51b640718295c0002c311bfb9cc9cc0dae63b3210d26fbdd9f1d4ae0de24",
+      "sourceSHA256": "a89df1deae22daf2e064e2949987611f377647f948309f7e04dcc0121ae5ca5a",
       "title": "比特币脚本简介",
       "subtitle": "比特币，作为数字货币革命的先驱，不仅颠覆了传统金融体系，更代表了一种全新的货币形态。这场创新的核心是比特币脚本——一种独特的编程语言，它巧妙地驱动着比特币网络中的交易过程。",
       "date": "2023-12-11T16:00:00.000Z",
@@ -1992,7 +2022,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 3,
-      "bodySHA256": "6c90e47d83aa228e83d5975159453241fbea2a9bdf257dada403622a5be2d428",
+      "bodySHA256": "8ec69aa7b72900cffa98ddf04ec9162f45d13695fdff776f6eb6503556ec4089",
       "warnings": []
     },
     {
@@ -2070,7 +2100,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/blockchain_crypto_agility",
       "sourceFile": "blockchain_crypto_agility/index.md",
-      "sourceSHA256": "a0719cda627934674cb32a55c33582af97dff2af7ba38723eac54305fa35a8e7",
+      "sourceSHA256": "1e0fd04090ac7849a81660001596f251cf8d0b400dce3ee21d839d8f0940e67b",
       "title": "Blockchain Crypto Agility: CKB’s Key to Quantum Safety",
       "subtitle": "Quantum computing is turning cryptographic rigidity into an existential risk, but Nervos CKB stands as the only blockchain architected for true cryptographic agility.",
       "date": "2026-06-25T16:00:00.000Z",
@@ -2097,7 +2127,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 14,
-      "bodySHA256": "2ba6038e0600c1dd20dfde5759fcdfa53dc6a9c96753525cc1eb888e131fa664",
+      "bodySHA256": "fdb83def80902480f513389abf98d55a9133fa28f01e4ff131095955cd01cbbe",
       "warnings": []
     },
     {
@@ -2175,7 +2205,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/blockchain_trilemma",
       "sourceFile": "blockchain_trilemma/index_zh.md",
-      "sourceSHA256": "3940deb8e01f31018a90c36fd1b335e4b1ca7dd0e49aeeb3c8ec2807992ce304",
+      "sourceSHA256": "d4b39a3a391460b52837d718b86e933a7a470057edcf2c2eed5bb2f394664911",
       "title": "区块链不可能三角：终极指南",
       "subtitle": "",
       "date": "2023-05-25T16:00:00.000Z",
@@ -2200,7 +2230,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 5,
-      "bodySHA256": "11061d941c9872ae00a933914295f0e3567314104f93671fa2a0156da6de5331",
+      "bodySHA256": "5c6b4796eee3d9f019ed30eeb86118a5b67859a496bf8e853d174b3544cd8515",
       "warnings": [
         "missing-author"
       ]
@@ -2210,7 +2240,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/chain_abstraction_bringing_web2_user_experience_to_web3",
       "sourceFile": "chain_abstraction_bringing_web2_user_experience_to_web3/index.md",
-      "sourceSHA256": "f343a93a048dedcc767a04a121b958c2bf1e0b007711d326177acd00ffdc21fa",
+      "sourceSHA256": "9d1002cb07a15462a72a22d6aa700e23c5adcc3faf8913728c1018d9e0a69228",
       "title": "Chain Abstraction: Bringing Web2’s User Experience to Web3",
       "subtitle": "Chain abstraction is the process of removing or hiding the complexities associated with using Web3 applications in the multi-chain era.",
       "date": "2024-10-22T16:00:00.000Z",
@@ -2232,7 +2262,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 18,
-      "bodySHA256": "b4ef1c6b5c79bfe0dcf3c3635a22a9b9777f8c58c8ab8754c6240edbc8909893",
+      "bodySHA256": "29df9cfbd81583438b32c30830f5597e0fbfd5336ce0f20e0ac288c145f17246",
       "warnings": [
         "missing-author"
       ]
@@ -2277,7 +2307,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/ckb_blockchain_developers_dream",
       "sourceFile": "ckb_blockchain_developers_dream/index.md",
-      "sourceSHA256": "a56dbdc0752acc0b095a64d6a0b165fe4019e8035424ca518dcb37db743a191e",
+      "sourceSHA256": "f26b8015f8cadb3347a4ed47eea2f0fbd88ad13f97406c67fcce4d717127f98a",
       "title": "Common Knowledge Base (CKB): a Blockchain Developer’s Dream",
       "subtitle": "Nervos’ Layer 1 blockchain, Common Knowledge Base, allows developers to bring their own cryptography and build decentralized applications with superior UX and financial primitives that aren’t possible on any other chain.",
       "date": "2023-06-19T16:00:00.000Z",
@@ -2302,7 +2332,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 11,
-      "bodySHA256": "9355ea38e52ff22540dc36c6e8bbb5e4297c5e00a62e8330e73f25e70028ab2c",
+      "bodySHA256": "5c7a47fcaa5c9efabaf049e372e7d8313fb1d07d3c48675444738ed67509663b",
       "warnings": [
         "missing-author"
       ]
@@ -2312,7 +2342,7 @@
       "language": "es",
       "canonicalPath": "/es/knowledge-base/ckb_blockchain_developers_dream",
       "sourceFile": "ckb_blockchain_developers_dream/index_es.md",
-      "sourceSHA256": "13e92214ec36939bb7d222f3c90e25762e7466cb44b62860b2916ea1f440cc6b",
+      "sourceSHA256": "248dfaf930d4f5d560e115f01b5f08f89948773bce30f617322dae159fb62fd7",
       "title": "Common Knowledge Base (CKB): el Sueño de un Desarrollador de Cadena de Bloques",
       "subtitle": "La cadena de bloques de Capa 1 de Nervos, Common Knowledge Base, permite a los desarrolladores implementar su propia criptografía y crear aplicaciones descentralizadas con UX superior y primitivas financieras que no son posibles en ninguna otra cadena.",
       "date": "2023-06-27T16:00:00.000Z",
@@ -2339,7 +2369,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 12,
-      "bodySHA256": "9ca0555bee3e140bdc889afce612fbcfcc02479016a9faa0c6394c93d7ee63fe",
+      "bodySHA256": "4cd69e5a1c263ad2d40d591d9a7078c1b7c94089ae936ae97ad2811698731793",
       "warnings": []
     },
     {
@@ -2347,7 +2377,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/ckb_blockchain_developers_dream",
       "sourceFile": "ckb_blockchain_developers_dream/index_zh.md",
-      "sourceSHA256": "313c687106f7ee4b9a7af99dffb8ad1e523690f0d82870f02e3a062d9470f442",
+      "sourceSHA256": "103dda496f7f337c3d8a43d6af92e56a2ea6f8429e0d877167f94c34abdd4d6d",
       "title": "Common Knowledge Base (CKB)：区块链开发者的梦想",
       "subtitle": "Nervos 的 Layer 1 区块链，即 Common Knowledge Base（共同知识库），允许开发者使用自己的密码学原语并构建具有卓越用户体验的去中心化应用程序，这是在任何其他链上不可能实现的。",
       "date": "2023-06-19T16:00:00.000Z",
@@ -2372,7 +2402,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 9,
-      "bodySHA256": "97c786a5bdaabb95bc54b5456bed52c2585607161345b9ec546976bab9d4e2c2",
+      "bodySHA256": "26c42ef49ed26adec95904193f2cd653f87d7c14dfbfcddd1bbcb4074507d100",
       "warnings": [
         "missing-author"
       ]
@@ -2519,7 +2549,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/comparing_blockchain_virtual_machines",
       "sourceFile": "comparing_blockchain_virtual_machines/index.md",
-      "sourceSHA256": "6a51594013d9f80c170876a4da0e18d47183f478bfcee3dfd7ff0b16e2cef734",
+      "sourceSHA256": "b8f797accbf29d617a4769968502c5e4b7f18e0e1c8dddd494501b88daa81a36",
       "title": "Comparing Blockchain Virtual Machines (VMs): EVM, WASM, SVM, and CKB-VM",
       "subtitle": "While the EVM is the pioneer of blockchain virtual machines and still the most popular smart contract execution environment today, its flaws and limitations have led to numerous alternative VMs, which are slowly but surely chipping away at its market share.",
       "date": "2024-07-11T16:00:00.000Z",
@@ -2544,7 +2574,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 29,
-      "bodySHA256": "502cb29a8dd001b15ee618cb5064de8584b42f176b87b3b3c016b869d8d9f2c0",
+      "bodySHA256": "4aaefbc92bb51854fee13203c7cd0465048b5593a19184eefc580776d3032b03",
       "warnings": [
         "missing-author"
       ]
@@ -2764,7 +2794,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/cryptocurrency_mining_pools",
       "sourceFile": "cryptocurrency_mining_pools/index_zh.md",
-      "sourceSHA256": "3733b52503113c2964e762fd5a4fdf88dce29041ed695bb0bdb5ba3455dab4b0",
+      "sourceSHA256": "60ce5e64cb3460bbac411bc599ba53603e960c7ab7a8d47e27644d296635ca33",
       "title": "一文看懂加密货币矿池的优缺点",
       "subtitle": "在充满活力的数字货币领域，矿池是加密货币矿工要接触的一个重要概念。",
       "date": "2023-10-09T16:00:00.000Z",
@@ -2791,7 +2821,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 4,
-      "bodySHA256": "bc4c2e02553f12003bd1a8f9a1e612262bdd0051aaa38f48c4d040d82e7adf30",
+      "bodySHA256": "5e3d8212ed8428e9b099425acb51e5f2d9b7458ab66862b210ec585222abadf0",
       "warnings": []
     },
     {
@@ -3093,7 +3123,7 @@
       "language": "es",
       "canonicalPath": "/es/knowledge-base/difference_between_miner_full_node",
       "sourceFile": "difference_between_miner_full_node/index_es.md",
-      "sourceSHA256": "5d23503fa3cab7b816525839ca04b50c6e1c7604b3fe470766e52c641daf9571",
+      "sourceSHA256": "9af070019a40c225a35dc8180f8b9f8513584fe48de7eb7c3a9d536142831dff",
       "title": "¿Cuál es la Diferencia Entre un Minero y un Nodo Completo?",
       "subtitle": "En el mundo de las criptomonedas, dos entidades clave desempeñan papeles cruciales en el mantenimiento de la integridad, la seguridad y la funcionalidad de las redes blockchain: los mineros y los nodos completos. Aunque muchos asumen a menudo que estas dos entidades son lo mismo, sus funciones son distintas, y entender estas diferencias es esencial para cualquiera que se adentre en el mundo de las criptomonedas.",
       "date": "2023-10-18T16:00:00.000Z",
@@ -3119,7 +3149,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 5,
-      "bodySHA256": "fa7a6a7f7f4426a52fc5d3f316ce30f32227dfae864ce53c1c14f1e7ad696bf0",
+      "bodySHA256": "6c53db1c9b618cf3ede3867e4a405b264fca517f52513df2af876e191623e89b",
       "warnings": []
     },
     {
@@ -3127,7 +3157,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/difference_between_miner_full_node",
       "sourceFile": "difference_between_miner_full_node/index_zh.md",
-      "sourceSHA256": "897acb9edb151c1dad367780457a87dc08e0f716b6b8856d1a8236b1fdac954f",
+      "sourceSHA256": "92fe600213601b9414c2eeee366c625daff7303ed6bbb606a739b87aa1ab9c3d",
       "title": "矿工和全节点的区别",
       "subtitle": "在加密货币领域，矿工和全节点是两个至关重要的实体，它们在维护区块链网络的完整性、安全性和功能性方面扮演着重要的角色。尽管很多人常常将这两者混淆，但它们的职能存在显著差异，因此了解这些区别对于深入理解加密货币世界的人来说至关重要。",
       "date": "2023-10-18T16:00:00.000Z",
@@ -3153,7 +3183,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 4,
-      "bodySHA256": "58d538d6fdb5ed26a5c911e1bf78240b7e797a4f0b44cfa014ce4261652ba7b8",
+      "bodySHA256": "9aa1cbe4f5032a6940cee4451de9e14e4018d29b0a82726a4c62d1a2d85b1e98",
       "warnings": []
     },
     {
@@ -3661,6 +3691,36 @@
       ]
     },
     {
+      "id": "how_payment_channel_networks_support_multiple_assets",
+      "language": "en",
+      "canonicalPath": "/knowledge-base/how_payment_channel_networks_support_multiple_assets",
+      "sourceFile": "how_payment_channel_networks_support_multiple_assets/index.md",
+      "sourceSHA256": "0a14312b2a6b23118e7369abed0df48173768b06374783734f3886447fc98490",
+      "title": "How Payment Channel Networks Support Multiple Assets",
+      "subtitle": "Explore how Taproot Assets, RGB, and Fiber support multi-asset payment channels, and how Fiber’s Cross-Chain Hub connects to Bitcoin Lightning.",
+      "date": "2026-09-29T16:00:00.000Z",
+      "coverImage": "/education_hub_articles/how_payment_channel_networks_support_multiple_assets/images/image1.png",
+      "authors": [
+        "nervosnetwork"
+      ],
+      "hub": null,
+      "subjects": [],
+      "internalTags": [],
+      "legacyTags": "Education",
+      "librarySection": "general",
+      "reviewStatus": "pending-editorial",
+      "matchMethod": "unmatched",
+      "candidateKeys": [],
+      "relatedArticleIds": [],
+      "excludedFromRecommendations": false,
+      "draft": false,
+      "readingMinutes": 12,
+      "bodySHA256": "d64d3f6a512fad36db2dbde19cae9c034098af6c5b980bc3b2fa46bbaec08358",
+      "warnings": [
+        "no-exact-candidate"
+      ]
+    },
+    {
       "id": "how_quantum_computers_threaten_exposed_crypto_public_keys",
       "language": "en",
       "canonicalPath": "/knowledge-base/how_quantum_computers_threaten_exposed_crypto_public_keys",
@@ -3700,7 +3760,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/how_to_protect_your_crypto_from_quantum_computing",
       "sourceFile": "how_to_protect_your_crypto_from_quantum_computing/index.md",
-      "sourceSHA256": "dce01f00b598ab35e4c6583ccb1832b6c98f28a03885eaaf39e590fa23716d79",
+      "sourceSHA256": "9f319632fc766ef291096be5ee7d4287be4d728f47361b7bda07ae979209d56a",
       "title": "How to Protect Your Crypto from Quantum Computing",
       "subtitle": "As quantum computers get closer to cracking standard blockchain security, safeguarding your digital assets requires strict address hygiene and a transition to quantum-safe networks today.",
       "date": "2026-07-02T16:00:00.000Z",
@@ -3727,7 +3787,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 15,
-      "bodySHA256": "932d4c4811386fc258d9bd73782f730e434958122434dcdfd2859c1fd910849f",
+      "bodySHA256": "581f1c5db3db2c90d99d884f8eda1caf8e457f1d65d8996235b512e565742c05",
       "warnings": []
     },
     {
@@ -3765,7 +3825,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/intents_an_old_idea_wrapped_in_new_clothing",
       "sourceFile": "intents_an_old_idea_wrapped_in_new_clothing/index.md",
-      "sourceSHA256": "d8d3cb166b9bb745592cc95ec5911ffaa79bc55081f8fac4d589eff5bca74606",
+      "sourceSHA256": "a2cc4c11d4cd3fd2a4776700bcaa84f63de387b258a9d221132fbb0fe45a5b57",
       "title": "The Rise of Blockchain Intents: An Old Idea Wrapped in New Clothing",
       "subtitle": "In a bid to mitigate some of the challenges facing account-based blockchains, researchers and developers on smart contract platforms like Ethereum are now embracing the “declarative” paradigm via intents. While intents are touted as an emerging technology, they are nothing but a rediscovery of an old idea that has long been explored in the parallel blockchain universe of UTXOs.",
       "date": "2024-06-11T16:00:00.000Z",
@@ -3788,7 +3848,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 22,
-      "bodySHA256": "68bc3a6ad6649dddaffd2718faff9fa91f0f57d4edcb25b3b4866bb54ddafaff",
+      "bodySHA256": "82014feecb4ac91f872997fbf891dfd764fcd433df3226e531b73ed839e142d6",
       "warnings": [
         "missing-author"
       ]
@@ -3863,7 +3923,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/layer_1_vs_layer_2",
       "sourceFile": "layer_1_vs_layer_2/index.md",
-      "sourceSHA256": "b229b19da3281175fb99795a5a08cfc780a9fc225863fdad6f99aa569eda3692",
+      "sourceSHA256": "1cc708c5ae8df2217df5bd88c1eb4f06937f431e028063a69105508ad3aace12",
       "title": "Layer 1 vs. Layer 2 Blockchain Networks: What is the Difference?",
       "subtitle": "",
       "date": "2023-04-09T16:00:00.000Z",
@@ -3888,7 +3948,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 8,
-      "bodySHA256": "f4b4b07bb1059fa1de34225321f1ca87d3a5c30eb03aa9639f50a30ccb16d100",
+      "bodySHA256": "91e16486eca453dbdeef3a692782a9ff7d541f7cd2cf69c58b64080f7f42c3da",
       "warnings": [
         "missing-author"
       ]
@@ -3898,7 +3958,7 @@
       "language": "es",
       "canonicalPath": "/es/knowledge-base/layer_1_vs_layer_2",
       "sourceFile": "layer_1_vs_layer_2/index_es.md",
-      "sourceSHA256": "9683906922832b46e4f6f81534b54741feeda10dd3a2dc8559faa4e8a177a437",
+      "sourceSHA256": "3062ebb9a14400f973d33383e71a3868d2123af53bb1c25daf8999553819b540",
       "title": "Redes Blockchain de Capa 1 vs de Capa 2: ¿Cuál es la Diferencia?",
       "subtitle": "",
       "date": "2023-04-19T16:00:00.000Z",
@@ -3923,7 +3983,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 9,
-      "bodySHA256": "ed48b9fbbc830223f7fefaa45b79c9a010b5246c48fc350e8304b72c2397e7d8",
+      "bodySHA256": "960a32661f5afdef3938e0430c01af3ed0a5f6d71f7f2f488ebb4448f5d534db",
       "warnings": [
         "missing-author"
       ]
@@ -3933,7 +3993,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/layer_1_vs_layer_2",
       "sourceFile": "layer_1_vs_layer_2/index_zh.md",
-      "sourceSHA256": "1e41b8b6d0786065916108f2328b8bd693d370b1735b8237afa02c39bb65ec14",
+      "sourceSHA256": "0c8519d5c63ad386d2abcfd8cb34ba1e4a300ed6268b6825dd44c5c8eb92686b",
       "title": "Layer 1 与 Layer 2 区块链网络有哪些差异？",
       "subtitle": "",
       "date": "2023-05-25T16:00:00.000Z",
@@ -3958,7 +4018,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 7,
-      "bodySHA256": "605c380bec8a572083348eaa716ac14f55362ac5053dd82d61325b3d64411fd2",
+      "bodySHA256": "7e28e6aba27dcac9cbb7323e12b3f5c14e2f15ec0e44487149cb5415dac35031",
       "warnings": [
         "missing-author"
       ]
@@ -4347,7 +4407,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/nervos_overview_of_a_layered_blockchain",
       "sourceFile": "nervos_overview_of_a_layered_blockchain/index_zh.md",
-      "sourceSHA256": "1194a36b22980748a23dd1a77bc0bb17446e0fc75ed10074357c7608dbb3aabe",
+      "sourceSHA256": "becadb4d4d7efc88948b5eee88c2eaf361c6b35fa72cfbffb16921f64e5ade0b",
       "title": "Nervos：一个模块化的区块链网络",
       "subtitle": "",
       "date": "2023-05-25T16:00:00.000Z",
@@ -4371,7 +4431,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 19,
-      "bodySHA256": "c4582e9e34e5590fe7a837883b535477dfe2d317fad77a197b53136ff2f509ed",
+      "bodySHA256": "e3385a31413c10fc6f93b313cdbbc7a4453190e83b45311e143a116d9fafa129",
       "warnings": [
         "missing-author"
       ]
@@ -4689,7 +4749,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/optimizing_layer_1_for_modularity",
       "sourceFile": "optimizing_layer_1_for_modularity/index_zh.md",
-      "sourceSHA256": "050b61abaea8501c272b996067de9ff608e0586dc8565dcfd35e69b27b893d13",
+      "sourceSHA256": "7b2c166191565a48c56efb65120b235f535ac737a0217806a17b0ba88361a1d4",
       "title": "如何优化 Layer 1 区块链以实现模块化",
       "subtitle": "区块链的模块化问题已经讨论了很长时间。在分层架构中，Layer 1 区块链的理想品质是什么？",
       "date": "2023-08-25T16:00:00.000Z",
@@ -4714,7 +4774,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 15,
-      "bodySHA256": "50e50c6be3991cff502b5cd14e2fbe8ed676dcbffccdb1acf5b9ce571be12a51",
+      "bodySHA256": "f0200b0ac374201a536fec3078265c5d904f9de284f662ae9e43f8e8de791ea4",
       "warnings": [
         "missing-author"
       ]
@@ -4900,7 +4960,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/pow_vs_pos_unravelling",
       "sourceFile": "pow_vs_pos_unravelling/index_zh.md",
-      "sourceSHA256": "cc53bb9312873a5d0610b6c0ae21e00412e7a1a636bd5b051fbb350e401c4314",
+      "sourceSHA256": "e5cdd51f082972530ede7fa59e3a60ef94dbe6f222ff5b52519a85723f4362e2",
       "title": "工作量证明（PoW）和权益证明（PoS）的主要差异",
       "subtitle": "全面分析加密货币使用的工作量证明（PoW）和权益证明（PoS）共识机制，重点介绍它们的优缺点和特性。",
       "date": "2023-07-17T16:00:00.000Z",
@@ -4927,7 +4987,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 6,
-      "bodySHA256": "ecb57cf3222869e7ed1848629c3ef973e14cea030a6c2f714cfce308cee49213",
+      "bodySHA256": "9016c2e2d90528ac780b41a363d7af74a50c5df1973d926d1c1c320052e3cc33",
       "warnings": []
     },
     {
@@ -5282,7 +5342,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/shors_algorithm_explained",
       "sourceFile": "shors_algorithm_explained/index.md",
-      "sourceSHA256": "08111daebeb35adf6caef8c857a76449d5e2f3d32c16862d16f0e0488eb004ea",
+      "sourceSHA256": "5e992a19a119acecb0c37f6df57f71e4165b81720fc41fcbbe0d59e7d297c61f",
       "title": "Shor’s Algorithm Explained: Can It Break Bitcoin?",
       "subtitle": "Learn how Shor’s algorithm threatens Bitcoin signatures, whether it can break them today, and what still blocks real-world attacks.",
       "date": "2026-07-09T16:00:00.000Z",
@@ -5309,7 +5369,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 17,
-      "bodySHA256": "6a482b877295571a5bf8780cc2775afaf281b6b22d413b21a05c2b376b5c65f9",
+      "bodySHA256": "aa7c2867a5ecffcea23e73c5eb249041a4fc33d102817ff56283fc22c3196062",
       "warnings": []
     },
     {
@@ -5562,7 +5622,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/state_and_state_change",
       "sourceFile": "state_and_state_change/index_zh.md",
-      "sourceSHA256": "984243d1d235be573adb805e18d43c5dc6cb94c4579add4b6ae5d076313475af",
+      "sourceSHA256": "97ae37d3c4ea6a7982eb4fd368773643bb99b34bd01a1b839d6534d8c5b6510a",
       "title": "区块链中的 \"状态\" 和 \"状态变化\" 是什么意思？",
       "subtitle": "在区块链领域，术语 “状态” 具有至关重要的意义。",
       "date": "2023-10-30T16:00:00.000Z",
@@ -5589,7 +5649,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 4,
-      "bodySHA256": "0fc0702e22e427aaab6d03321b3744306f22f415d21c7c4a71d57bdf34e7fe8f",
+      "bodySHA256": "facd307e6d6c60cd346446e73d6c83ab9c72d307c9b916b27dcadb1109b841bb",
       "warnings": []
     },
     {
@@ -5632,7 +5692,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/state_bloat_blockchain",
       "sourceFile": "state_bloat_blockchain/index_zh.md",
-      "sourceSHA256": "08bf9d546c2d70aee7d71e25d2d2116a327ffbf7c4b79c00cd6c25360db1f44f",
+      "sourceSHA256": "92f051f6ee077d0fff3f3af4563714d274d0a1d8d4d2ab335c690eec034366f6",
       "title": "什么是区块链状态爆炸？",
       "subtitle": "在区块链技术领域，一个长期存在的问题是状态爆炸。",
       "date": "2023-11-14T16:00:00.000Z",
@@ -5659,7 +5719,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 4,
-      "bodySHA256": "fc7d0044e20eba36f4ab7f6c904732b98309593852c434c79adafc5bc5217291",
+      "bodySHA256": "3342be2b315c1aaa5d5ac1087b0252ecc1c4a48b0cdac9faa75b1b786d507cf6",
       "warnings": []
     },
     {
@@ -5667,7 +5727,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/surprisingly_secondary_issuance_is_not_inflationary",
       "sourceFile": "surprisingly_secondary_issuance_is_not_inflationary/index.md",
-      "sourceSHA256": "c226a04a0fed69a5f4541f34718e7d24f28a8aed91046298fc9a688f7eda32b3",
+      "sourceSHA256": "4527ff51b1fa95792fa169005c724789baa7f6c4164c6eb9957dbe8c6c49dd45",
       "title": "Surprisingly, Secondary Issuance is not Inflationary",
       "subtitle": "The purpose of this article is to present in a graphic and intuitive way the approach outlined by Peter Todd, Bitcoin Core developer, in his article entitled [Surprisingly, tail emission is not inflationary](https://petertodd.org/2022/surprisingly-tail-emission-is-not-inflationary). To illustrate this, we will use the CKB issuance model as an example, providing the community with a complementary perspective that allows a more complete understanding of the article [Understanding the Nervos CKB Issuance Model](https://www.nervos.org/knowledge-base/understanding_nervos_ckb_issuance_model).",
       "date": "2023-08-02T16:00:00.000Z",
@@ -5697,7 +5757,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 7,
-      "bodySHA256": "b576c2b129cafd746b5b5aa7177e94ba0ea1d6ec4b29149afcb5e17cffc73e4c",
+      "bodySHA256": "8608280bc81bb9914293697d179da80b5dfe76fb2cf7265fd86583c30ab1bbbd",
       "warnings": []
     },
     {
@@ -5705,7 +5765,7 @@
       "language": "es",
       "canonicalPath": "/es/knowledge-base/surprisingly_secondary_issuance_is_not_inflationary",
       "sourceFile": "surprisingly_secondary_issuance_is_not_inflationary/index_es.md",
-      "sourceSHA256": "f309930bd14c7ab45190eea068bf4408bcb32fde226ac45fd10601d2a32ce0e2",
+      "sourceSHA256": "58cb532ba3f96fed6bbf5d9796c90a0b6ee0986eef13c2c748da939731c6d2b2",
       "title": "Sorprendentemente, la Emisión Secundaria no es Inflacionaria",
       "subtitle": "El propósito de este artículo es mostrar de una forma gráfica e intuitiva el planteamiento expuesto por Peter Todd, desarrollador de Bitcoin Core, en su artículo titulado [Surprisingly, tail emission is not inflationary](https://petertodd.org/2022/surprisingly-tail-emission-is-not-inflationary). Para ilustrarlo emplearemos como ejemplo el modelo de emisión de CKB, aportando a la comunidad una perspectiva complementaria que permita a su vez una comprensión más completa del artículo [Understanding the Nervos CKB Issuance Model](https://www.nervos.org/knowledge-base/understanding_nervos_ckb_issuance_model).",
       "date": "2023-08-02T16:00:00.000Z",
@@ -5735,7 +5795,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 8,
-      "bodySHA256": "d6f49f7a4461fad5a434f9884fb463fff66bcf993f6e7e0b5414c762fc6e019a",
+      "bodySHA256": "78f284336325a4f451f4da219f5b631818c68731d3172a9bf4c30c1591b3f9d3",
       "warnings": []
     },
     {
@@ -5743,7 +5803,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/surprisingly_secondary_issuance_is_not_inflationary",
       "sourceFile": "surprisingly_secondary_issuance_is_not_inflationary/index_zh.md",
-      "sourceSHA256": "6381349cc90446e0c2a7ea735022140367effa0504d859bd670d446cdeb75a7e",
+      "sourceSHA256": "36356a7ee069e57b5ec2d28a27a0e6c7c5788cf0e15683b0b140e2ff9ed8b110",
       "title": "令人惊讶的是，二级发行并不会造成通货膨胀",
       "subtitle": "本文将以图文并茂的方式，对比特币核心开发者 Peter Todd 在他的文章 [Surprisingly, tail emission is not inflationary](https://petertodd.org/2022/surprisingly-tail-emission-is-not-inflationary) 中提出的方法进行解读。同时，我们以 CKB 的发行机制为例，为读者呈现一个补充性的视角，以更加全面地理解在文章 [《一文看懂 Nervos CKB 的发行机制》](https://www.nervos.org/knowledge-base/understanding_nervos_ckb_issuance_model) 中所阐述的内容。",
       "date": "2023-08-02T16:00:00.000Z",
@@ -5773,7 +5833,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 6,
-      "bodySHA256": "eecfc5a5814db2d2a68555446c0d0e798fb9669d1206a7e8593668f8bcb7b5c2",
+      "bodySHA256": "df4ef2cc3b5199fa9a3673acac5b0be24dae4260bb8159bb6b2a1c5842e99cc7",
       "warnings": []
     },
     {
@@ -6061,7 +6121,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/tokenomics_of_nervos_network",
       "sourceFile": "tokenomics_of_nervos_network/index_zh.md",
-      "sourceSHA256": "00515815498a1747318955001d97b501efe14951609836585db723403b14226a",
+      "sourceSHA256": "e569fbfa56717fd2c0995efc1c21db9ff9146e0782809b189718365a61c708a7",
       "title": "深入理解 Nervos 的代币经济学",
       "subtitle": "",
       "date": "2023-07-31T16:00:00.000Z",
@@ -6086,7 +6146,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 14,
-      "bodySHA256": "61f2e8451b5bfcef81b8431ee813fa015d41c6816f52d2a120df70a0dee78658",
+      "bodySHA256": "ae66cbfa0464d801ece7eda630a9109bb0be515242be96fcd0c28ccc650c1fb6",
       "warnings": [
         "missing-author"
       ]
@@ -6096,7 +6156,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/top_quantum_resistant_cryptocurrency_projects_in_2026",
       "sourceFile": "top_quantum_resistant_cryptocurrency_projects_in_2026/index.md",
-      "sourceSHA256": "757f3a8b2b34b7d3f112a31ab62b5f5c1ba59fadeaeea57e7fe33fe492be85b4",
+      "sourceSHA256": "60492101972e9bdd746e3d4704f825b20c2290e93653391cdc3bca9f88e1a745",
       "title": "Top Quantum Resistant Cryptocurrency Projects in 2026",
       "subtitle": "Compare 2026's quantum resistant cryptocurrency blockchains, evaluated by live mainnet status, crypto agility, and migration readiness.",
       "date": "2026-07-01T16:00:00.000Z",
@@ -6123,7 +6183,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 14,
-      "bodySHA256": "220dbbfbc74e3db740cc8a3b3a3ece16f6307476963b311ae98065cad1e497df",
+      "bodySHA256": "9871d552f7163262149d06b509276fcdc688de3908a683b870ce02693ee69432",
       "warnings": []
     },
     {
@@ -6268,7 +6328,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/ultimate_guide_to_light_clients",
       "sourceFile": "ultimate_guide_to_light_clients/index_zh.md",
-      "sourceSHA256": "6c2d85aab3131ab3377b735294d4075f559f931387d5347e93ff44cb9387790c",
+      "sourceSHA256": "9e84b2e809ee912d473261cdd23f07bbe1202dac4007a79d875d9cb9320216dc",
       "title": "区块链轻客户端终极指南",
       "subtitle": "轻客户端为用户提供了一种信任最小化的方式，使其能够轻松便捷地访问区块链，而无需依赖第三方。",
       "date": "2023-10-02T16:00:00.000Z",
@@ -6293,7 +6353,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 16,
-      "bodySHA256": "fd315b24c11e6169b83e7eec2fbdeacd618ab64330246c9c3a75990334d820c4",
+      "bodySHA256": "e03b819f0055ee40ef3f9c1a188d657938266fbbcaf96ba39733677ccc510e3a",
       "warnings": [
         "missing-author"
       ]
@@ -6337,7 +6397,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/ultimate_guide_to_rgb_rgbpp_and_client_side_validation",
       "sourceFile": "ultimate_guide_to_rgb_rgbpp_and_client_side_validation/index.md",
-      "sourceSHA256": "f49f9da86bcfd5ed577f856cb95bbf629deecfceb08d3b11d493949449699f7c",
+      "sourceSHA256": "6d32cd9eae665e7dd940b74082d0fe3db99446f83b2f62e697d689da9e06bb02",
       "title": "The Ultimate Guide to RGB, RGB++, and Client-Side Validation",
       "subtitle": "The rise in popularity of ordinals, inscriptions, and BRC-20 tokens over the last two years has made it abundantly clear that crypto users want tokenized assets on Bitcoin.",
       "date": "2024-09-26T16:00:00.000Z",
@@ -6363,7 +6423,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 19,
-      "bodySHA256": "ecb6776af47387a9e44c6714c18dc91090a4e1dd92d6fe20633831e801f4d0d4",
+      "bodySHA256": "6e29f1ab4743d62830a8bde17eac05f57b0df4c5267b325b8ce7cf4c7ed82a88",
       "warnings": [
         "date-normalized-existing-site-rule",
         "missing-author"
@@ -6583,7 +6643,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/understanding_nervos_ckb_issuance_model",
       "sourceFile": "understanding_nervos_ckb_issuance_model/index.md",
-      "sourceSHA256": "18156d378814825e2c6ee7e5ae8fe7605a323ffbe17f67be343a524777e3a922",
+      "sourceSHA256": "7ac5c5729044dc5768cd14f4fb7823e6b9990c15601c8040e1d81a91349e3e6a",
       "title": "Understanding the Nervos CKB Issuance Model",
       "subtitle": "This document is intended to be a reference article to understand the CKB issuance model in a graphic, didactic and simple way.",
       "date": "2023-07-07T16:00:00.000Z",
@@ -6612,7 +6672,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 15,
-      "bodySHA256": "0c19c86a440f7f89751440b5b74b4285af70cd07fcf3c381650590967376f00f",
+      "bodySHA256": "9c42cd80a00d4ab6da2c3a23304d1192a2a79dbbbd585049aac1f7264cee48b1",
       "warnings": []
     },
     {
@@ -6620,7 +6680,7 @@
       "language": "es",
       "canonicalPath": "/es/knowledge-base/understanding_nervos_ckb_issuance_model",
       "sourceFile": "understanding_nervos_ckb_issuance_model/index_es.md",
-      "sourceSHA256": "0958d2c3f0c7df211603884aaad26966b7475b1d011408e5cf0939ef06fa790b",
+      "sourceSHA256": "2f7c647a86ffd312f11b7506e8fdb9ca255e0821f28af71371891bbc1c90872c",
       "title": "Entendiendo el modelo de emisión de Nervos CKB",
       "subtitle": "Este documento pretende ser un artículo de referencia para entender el modelo de emisión de CKB de una forma gráfica, didáctica y sencilla.",
       "date": "2023-07-07T16:00:00.000Z",
@@ -6649,7 +6709,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 16,
-      "bodySHA256": "c6fe2295464ca6e8ecd3c5a348d7aaf3c89084e65c2fc763033c4c8032781e20",
+      "bodySHA256": "733a0f79414adf1f45c59c320e15b0008b525612d6f2afe79368c1d31cababe1",
       "warnings": []
     },
     {
@@ -6657,7 +6717,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/understanding_nervos_ckb_issuance_model",
       "sourceFile": "understanding_nervos_ckb_issuance_model/index_zh.md",
-      "sourceSHA256": "ba98787562c7e6cb2d49a201d452570b980e97d97f5f64423b6f648758ef61be",
+      "sourceSHA256": "af5b029cb221c763f0be9175ef0de131b7790dd5abaa42c359c02dbb48a79a4c",
       "title": "一文看懂 Nervos CKB 的发行机制",
       "subtitle": "本文将用图解、科普等简明生动的方式，向您解释 CKB 的发行机制。",
       "date": "2023-07-07T16:00:00.000Z",
@@ -6685,8 +6745,8 @@
       "relatedArticleIds": [],
       "excludedFromRecommendations": false,
       "draft": false,
-      "readingMinutes": 23,
-      "bodySHA256": "631f4c24fa90542cbf2da552751b724c97c5398e6dc23c3e2a60f09ef9a6dda9",
+      "readingMinutes": 22,
+      "bodySHA256": "28f09b4ddbb77e4e48aafba82e855a21372dcde9981948727ec4bc5da2235de6",
       "warnings": []
     },
     {
@@ -6904,7 +6964,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/utxo_vs_account_based",
       "sourceFile": "utxo_vs_account_based/index_zh.md",
-      "sourceSHA256": "1351c6a43d240a3e21dd4c4ea8c4bee5b32921b06277bb18db0474af0eeeb83d",
+      "sourceSHA256": "062d57e707c6280dda022f88bbd5722d7db0341f27bdbd20ed5bb618c1224631",
       "title": "UTXO 模型 vs. 账户模型",
       "subtitle": "",
       "date": "2023-05-25T16:00:00.000Z",
@@ -6929,7 +6989,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 4,
-      "bodySHA256": "d66a0a7410129cbc2f420ca1c955711c643ef5d033839abbe28a27c114a7ac53",
+      "bodySHA256": "aa95844bb66f7ea26c85b7cb2bec5ba359a36f10a364e827201a0e79e48a4afa",
       "warnings": [
         "missing-author"
       ]
@@ -7003,7 +7063,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/web5-extra-decentralized",
       "sourceFile": "web5-extra-decentralized/index.md",
-      "sourceSHA256": "1306744778199907ead39defa64062e4bd1a7dbf1305efc6d14e73d2a4bcca13",
+      "sourceSHA256": "b80ab8acf29678b5c0063df57d74f956d320f062f75c3b92e4315b554354d013",
       "title": "Web5: Extra Decentralized",
       "subtitle": "Reclaiming the foundation of Satoshi's peer-to-peer network of value.",
       "date": "2025-01-13T16:00:00.000Z",
@@ -7025,7 +7085,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 27,
-      "bodySHA256": "151c0025fe3fa2e1382e3d8c5e4db9e8a4a012589f5aa5776016f120ba558563",
+      "bodySHA256": "2128538af489966ebeb1b24be34538c5e18a0f9919692a4542a7e8ff8e050792",
       "warnings": [
         "missing-author"
       ]
@@ -7035,7 +7095,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/web5-extra-decentralized",
       "sourceFile": "web5-extra-decentralized/index_zh.md",
-      "sourceSHA256": "833b29e25af407cb08c05928b432d59b9f798e2f94e1dc100c23fb68b2d6158b",
+      "sourceSHA256": "b457b35b4f8c4c668678388b76a38753c1f5e989260693793d77b91791aeb6f3",
       "title": "Web5：更加去中心化",
       "subtitle": "重拾中本聪 P2P 价值网络的基础。",
       "date": "2025-01-13T16:00:00.000Z",
@@ -7057,7 +7117,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 23,
-      "bodySHA256": "cf1e82aa5b5afadb59110b76295c6256f0b4016be3441bc019dd6492144337fc",
+      "bodySHA256": "0845c3a880ec0406a2ff11967082568b9c14aba424d6976df82008ce481f7d4e",
       "warnings": [
         "missing-author"
       ]
@@ -8054,7 +8114,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/what_are_quantum_resistant_wallets",
       "sourceFile": "what_are_quantum_resistant_wallets/index.md",
-      "sourceSHA256": "a37df47087e818efcc48f4d676bed3e7be342c13dd69fa4ca49d5ea363d70607",
+      "sourceSHA256": "9a51bc969a603047b988a5e10132170b9823927ca8eefa5405bafe043a3be1f7",
       "title": "What Are Quantum-Resistant Wallets?",
       "subtitle": "Quantum-resistant wallets represent an early but crucial step in preparing cryptocurrency ecosystems for a world where current cryptographic assumptions may no longer hold.",
       "date": "2026-06-29T16:00:00.000Z",
@@ -8081,7 +8141,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 7,
-      "bodySHA256": "209f0dd43c5eb8434a45843c5b77107ef0c488c2c07e8f25716d433bb210b1be",
+      "bodySHA256": "5a844a2269553b538524ae8941d97fc43ea165151fecb7267b9c896e8948d34c",
       "warnings": []
     },
     {
@@ -8819,7 +8879,7 @@
       "language": "es",
       "canonicalPath": "/es/knowledge-base/what_is_a_hard_fork_soft_fork",
       "sourceFile": "what_is_a_hard_fork_soft_fork/index_es.md",
-      "sourceSHA256": "1487188cd6b5b3d11db4bf56313a684636c3d8e5448f692a167b81f02982890b",
+      "sourceSHA256": "a276c10ead2f7cafb4eb8bd29ab8f9f83abe0ddb82a1ed8d23d31286570a4108",
       "title": "¿Qué es un Hard Fork y un Soft Fork en las Criptomonedas?",
       "subtitle": "El mundo de las criptomonedas es complejo y está lleno de terminologías opacas. Entre estos términos se encuentran \"hard fork\" y \"soft fork\", que desempeñan un papel fundamental en la evolución de las redes de cadenas de bloques.",
       "date": "2023-10-15T16:00:00.000Z",
@@ -8846,7 +8906,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 6,
-      "bodySHA256": "6d9b6dd9415d87263dedafe296de22684add61d67ea892753a55d69e0f55944e",
+      "bodySHA256": "16b636137f8cc44bd224ac9ff3e6a4ffd48662fd6d9e22fb3b424750467ada5e",
       "warnings": []
     },
     {
@@ -8854,7 +8914,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/what_is_a_hard_fork_soft_fork",
       "sourceFile": "what_is_a_hard_fork_soft_fork/index_zh.md",
-      "sourceSHA256": "6d3e522542981ee4791fe3a0e1beb87e8e65ed1c83caa8f93c82f2cc880d8032",
+      "sourceSHA256": "783db0971d6b2775fb4a5911981c06ba488ac736c9c0bc3314189b5a57bf87e6",
       "title": "加密货币中的硬分叉和软分叉分别是什么？",
       "subtitle": "加密货币领域是一个复杂的世界，充满了各种专业术语。其中，\"硬分叉\" 和 \"软分叉\" 是两个关键概念，它们在加密货币的发展过程中扮演着重要的角色。",
       "date": "2023-10-15T16:00:00.000Z",
@@ -8881,7 +8941,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 4,
-      "bodySHA256": "ca1bb37d0d3a829102cb468d19be45781b395d6a2a134a8dbe352eb7816c9eae",
+      "bodySHA256": "90144481fcbb30a66a39aeedfed020a9606f8eae41f4d861b89938bed4557510",
       "warnings": []
     },
     {
@@ -10218,7 +10278,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/what_is_nakamoto_consensus",
       "sourceFile": "what_is_nakamoto_consensus/index_zh.md",
-      "sourceSHA256": "ca2f863f6d3f78772069b1eb6ac086b9eb5664e31ad623511af9f63549aec632",
+      "sourceSHA256": "cc34ea2a653b41b375914549c2d91c534df308d4db60c1e7d5033ec623fbc07e",
       "title": "什么是中本聪共识？",
       "subtitle": "",
       "date": "2023-05-25T16:00:00.000Z",
@@ -10244,7 +10304,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 4,
-      "bodySHA256": "4df9acb9f106540a348204103e8b6a0e28082ad550c572c7c1724dc4aa6f32c1",
+      "bodySHA256": "9ac54b0b5fbdfa49b84857fe097258c440ec571db0cdb770c31eb904ade0bc43",
       "warnings": [
         "missing-author"
       ]
@@ -10314,7 +10374,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/what_is_q_day",
       "sourceFile": "what_is_q_day/index.md",
-      "sourceSHA256": "3bc65e8e421bf127efa94c09d5dec5196613c188ddcfbfc235ca0bb628a8f95d",
+      "sourceSHA256": "803971f874b28168722ec7372cc704fdf0d847df828a5c6db4342c489461eb77",
       "title": "What Is Q-Day, and Can Crypto Survive It?",
       "subtitle": "Can crypto survive Q-Day? Learn what Q-Day means for Bitcoin, when quantum computers could become a threat, and how blockchains are preparing.",
       "date": "2026-07-13T16:00:00.000Z",
@@ -10341,7 +10401,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 17,
-      "bodySHA256": "535934a558bebfbb5d7e332a8695cdfb3325ec23d9dade3fd7da919da895cd71",
+      "bodySHA256": "35f6ef4da039ed968606b3e270174fdf4bcdd7fa008d54b2f8e5632172f757cd",
       "warnings": []
     },
     {
@@ -10556,7 +10616,7 @@
       "language": "en",
       "canonicalPath": "/knowledge-base/what_is_selfish_mining_and_how_protocols_deter_it",
       "sourceFile": "what_is_selfish_mining_and_how_protocols_deter_it/index.md",
-      "sourceSHA256": "0018aa42d6737fa2ef1adff35ff34354ecf18408f56c15b68389f0b005f5e13b",
+      "sourceSHA256": "621b92b2c6dd5059d67f0a99fce8e07b9e015d69257b7fa768584358a966fb1f",
       "title": "What Is Selfish Mining and How Protocols Deter It?",
       "subtitle": "Selfish mining illustrates the delicate balance between economics, technology, and trust that defines blockchain systems.",
       "date": "2025-12-23T16:00:00.000Z",
@@ -10583,7 +10643,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 8,
-      "bodySHA256": "85525e75d064bc09cf92802a4e2b5ade6ece64ff638cb967e164a9d75a87e151",
+      "bodySHA256": "5b294a27c7186356c96396d0c12a87cfe80a6e2235e3e42dee6540509dcbe55f",
       "warnings": []
     },
     {
@@ -10934,7 +10994,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/why_is_proof_of_work_required",
       "sourceFile": "why_is_proof_of_work_required/index_zh.md",
-      "sourceSHA256": "bc6076efd516eb4f6f11b90d3006443647875d84c44bd6847c000a00ce224062",
+      "sourceSHA256": "07a837d0248aac10ab2c4d06cc2d4bef960631fb516ca22c966859aa824836fb",
       "title": "为什么比特币需要工作量证明（PoW）?",
       "subtitle": "",
       "date": "2023-05-25T16:00:00.000Z",
@@ -10959,7 +11019,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 3,
-      "bodySHA256": "ea3e834bf6cdc261a435d063f3474440d7bb78275cb908299d350164d357bb8b",
+      "bodySHA256": "1a9833bdd43049460c865d019fd61e54ab3b269a7e9faf01cb70ef19520bb24a",
       "warnings": [
         "missing-author"
       ]
@@ -11179,7 +11239,7 @@
       "language": "zh",
       "canonicalPath": "/zh/knowledge-base/zk_rollup_vs_optimistic_rollup",
       "sourceFile": "zk_rollup_vs_optimistic_rollup/index_zh.md",
-      "sourceSHA256": "a5d0489df78daf2f837214ef74281573900fbe41a7b8db5d8e68317a788b347e",
+      "sourceSHA256": "dc4b510931754f36b41355632eaa05db075242137e39c2c26ac6ec1fbcbf23a1",
       "title": "ZK Rollup 与 Optimistic Rollup 的区别在哪里？",
       "subtitle": "",
       "date": "2023-05-25T16:00:00.000Z",
@@ -11204,7 +11264,7 @@
       "excludedFromRecommendations": false,
       "draft": false,
       "readingMinutes": 7,
-      "bodySHA256": "26e9d0677f96db6aa8e1a2a2403e66e44a8a9ecf4e1061940cd90d19cc031afe",
+      "bodySHA256": "61948cb36e5b4e78a10dc83edfb080773e545786f389b8c3660e39c98e83e66a",
       "warnings": [
         "missing-author"
       ]
